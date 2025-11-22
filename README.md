@@ -11,7 +11,7 @@ Routes:
 - Get item
 - List all items
 
-The API opens at the address <http://localhost:5155/> by default.
+The API opens at the address <http://localhost:6446/> by default.
 
 ### Search
 
